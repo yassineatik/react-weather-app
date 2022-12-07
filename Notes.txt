@@ -1,0 +1,7 @@
+1- We need to install react accessible accordion
+commande : 
+npm i react-accessible-accordion
+
+2- We need to install react select async paginate , which is a select tag for html when you can typesomething and get options of it
+commande : 
+npm i react-select-async-paginate --force
